@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="122" started-at="2019-07-22T05:49:24Z" finished-at="2019-07-22T05:49:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="122" started-at="2019-07-22T05:49:24Z" finished-at="2019-07-22T05:49:24Z">
+      <class name="com.tech.appa.DemoTest">
+        <test-method status="PASS" signature="div()[pri:0, instance:com.tech.appa.DemoTest@50c87b21]" name="div" duration-ms="69" started-at="2019-07-22T11:19:24Z" finished-at="2019-07-22T11:19:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="multi()[pri:0, instance:com.tech.appa.DemoTest@50c87b21]" name="multi" duration-ms="6" started-at="2019-07-22T11:19:24Z" finished-at="2019-07-22T11:19:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multi -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.tech.appa.DemoTest@50c87b21]" name="sub" duration-ms="7" started-at="2019-07-22T11:19:24Z" finished-at="2019-07-22T11:19:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.tech.appa.DemoTest@50c87b21]" name="sum" duration-ms="4" started-at="2019-07-22T11:19:24Z" finished-at="2019-07-22T11:19:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.tech.appa.DemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
